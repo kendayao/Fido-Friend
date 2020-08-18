@@ -101,3 +101,4 @@ jcmastro5 at jcmastro5@gmail.com
 
 Deployed application link: https://young-refuge-69490.herokuapp.com/
 
+<img src="public/Fido-Friend.png" width="400" height="300">
