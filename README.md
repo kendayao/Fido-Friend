@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a web application to connect dog owners with each other. It also helps people find dog friendly locations near them based on location. This portfolio was built with REACT and a few other languages, see below for a complete list. Enjoy!
+This is a responsive web application to connect dog owners with each other. Dog owners can see other dog owners around their local area and have the ability to message each other via a chat feature. It also helps people find dog friendly locations near them based on location inputted. This portfolio was built with REACT and a few other languages, see below for a complete list. Enjoy!
 
 ## Table of Contents
 
@@ -101,4 +101,6 @@ jcmastro5 at jcmastro5@gmail.com
 
 Deployed application link: https://young-refuge-69490.herokuapp.com/
 
-<img src="public/Fido-Friend.png" width="400" height="300">
+Video Demo: https://giphy.com/gifs/h20bw5D8JgLoOLcIQs/fullscreen
+
+<img src="client/public/Fido-Friend.png" width="400" height="300">
