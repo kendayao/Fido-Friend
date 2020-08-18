@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a responsive web application to connect dog owners with each other. Dog owners can see other dog owners around their local area and have the ability to message each other via a chat feature. It also helps people find dog friendly locations near them based on location inputted. This portfolio was built with REACT and a few other languages, see below for a complete list. Enjoy!
+Fido Friend is a responsive web application to connect dog owners with each other. Dog owners can see other dog owners around their local area and have the ability to message each other via a chat feature. It also helps people find dog friendly locations near them based on location inputted. This portfolio was built with REACT and a few other languages, see below for a complete list. Enjoy!
 
 ## Table of Contents
 
