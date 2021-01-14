@@ -33,7 +33,10 @@ No installation needed. If cloning repo do an npm install.
 
 ## Usage
 
-The deployed application link will take you to the homepage. 
+You may use the credentials below to log in:
+
+username: cool_coder
+password: 12341234
 
 
 ## License
@@ -99,7 +102,7 @@ jcmastro5 at jcmastro5@gmail.com
 
 ## Deployed Application URL
 
-Deployed application link: https://young-refuge-69490.herokuapp.com/
+Deployed application link: https://fidofriendproject.herokuapp.com/
 
 Video Demo: https://giphy.com/gifs/h20bw5D8JgLoOLcIQs/fullscreen
 
