@@ -1,5 +1,5 @@
 module.exports = {
-    mongoURI: "mongodb+srv://fidofriend_user1:"+process.env.DB_PASS+"<password>@fidofriend.pddfr.mongodb.net/fidofriend?retryWrites=true&w=majority",
+    mongoURI: "mongodb+srv://fidofriend_user1:"+process.env.DB_PASS+"@fidofriend.pddfr.mongodb.net/fidofriend?retryWrites=true&w=majority",
     secretOrKey: process.env.KEY
   };
 
