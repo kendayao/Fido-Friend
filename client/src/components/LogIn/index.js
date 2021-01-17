@@ -76,6 +76,8 @@ render () {
                     <span className="red-text">{errors.password}{errors.passwordincorrect}</span>
                     </div>
                     <button className="btn signin">Login</button>
+                    <p className='login__text'>*You may use the following credentials to login or click on create new account*</p>
+                    <p className='login__text'>email: cool_coder@email.com password: 12341234</p>
                     <br/>
                     <br/>
                     <h5><Link to="/signup">Create New Account <i className="fa fa-arrow-right"></i></Link></h5>
